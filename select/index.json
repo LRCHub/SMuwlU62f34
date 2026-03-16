@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Waiting for the End",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-03-16T06:05:27.233785Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Waiting for the End",
+      "artist": "VanVelzen",
+      "has_synced": false,
+      "path": "select/01_Waiting_for_the_End_VanVelzen.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Waiting for the End",
+      "artist": "Noeazy",
+      "has_synced": false,
+      "path": "select/02_Waiting_for_the_End_Noeazy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Waiting for the End",
+      "artist": "Tonight Alive",
+      "has_synced": true,
+      "path": "select/03_Waiting_for_the_End_Tonight_Alive.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Waiting for the End",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/04_Waiting_for_the_End_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Waiting for the End",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/05_Waiting_for_the_End_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Waiting For The End",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/06_Waiting_For_The_End_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Waiting for the End",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/07_Waiting_for_the_End_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Waiting for the End",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/08_Waiting_for_the_End_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Waiting for the End",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/09_Waiting_for_the_End_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Waiting For The End",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/10_Waiting_For_The_End_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Waiting for the End",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/11_Waiting_for_the_End_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Waiting For The End",
+      "artist": "Left Behind",
+      "has_synced": false,
+      "path": "select/12_Waiting_For_The_End_Left_Behind.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Waiting For The End",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/13_Waiting_For_The_End_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Waiting For The End",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/14_Waiting_For_The_End_Linkin_Park.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Waiting For The End",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/pl_01_Waiting_For_The_End_Linkin_Park.txt"
+    }
+  ]
+}
